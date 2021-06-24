@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Glenn De Paula",
+	"author": "Glenn De Paula <glenndepaula@gmail.com> (https://glenndepaula.github.io/)",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
